@@ -1,7 +1,5 @@
 # Segmentation_ct
 
-Here's a GitHub README template for your project:
-
 ---
 
 # CT Scan Image Segmentation with Transformers
