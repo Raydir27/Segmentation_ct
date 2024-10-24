@@ -21,8 +21,7 @@ Medical image segmentation is a crucial task in the analysis of CT scan images. 
 
 You can download the pretrained model used in this project from the following link:
 
-[**Download Pretrained Model**](#)  
-[Trained_Model_link](https://drive.google.com/drive/folders/1mWPQwZf68XFQeSf7Zn-X6cvg-8S1s0W-?usp=sharing)
+[**Download Pretrained Model**](https://drive.google.com/drive/folders/1mWPQwZf68XFQeSf7Zn-X6cvg-8S1s0W-?usp=sharing)
 
 ## Instructions
 
