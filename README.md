@@ -38,7 +38,7 @@ pip install -r requirements.txt
 Once dependencies are installed, you can open and run the Jupyter notebook:
 
 ```bash
-jupyter notebook CT_Scan_Segmentation.ipynb
+jupyter notebook CT_Scan_Segmentation_SWinV2.ipynb
 ```
 
 The notebook contains code for:
@@ -61,5 +61,3 @@ model.load_state_dict(torch.load('path_to_saved_model.pth'))
 This implementation is inspired by and based on the work from the [Medical Segmentation Transformer](https://github.com/OlgaOlmi/medical_seg_transformer/tree/main) repository. Special thanks to OlgaOlmi for their open-source contributions to medical image segmentation.
 
 ---
-
-Feel free to add more sections, details, or personalize it further! Don't forget to replace the placeholder with the actual Google Drive link to your pretrained model.
