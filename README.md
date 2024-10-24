@@ -14,7 +14,7 @@ Medical image segmentation is a crucial task in the analysis of CT scan images. 
 
 ## Repository Structure
 
-- `CT_Scan_Segmentation.ipynb`: Jupyter notebook containing the code for the segmentation model.
+- `CT_Scan_Segmentation_SWinV2.ipynb`: Jupyter notebook containing the code for the segmentation model.
 - `requirements.txt`: A list of dependencies required to run the notebook.
   
 ## Pretrained Model
